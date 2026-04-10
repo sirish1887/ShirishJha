@@ -5,7 +5,7 @@
 
 <!-- ✨ TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Hi+I'm+Sirish+Jha;BCS-IT+Student;Learning+AI+%26+Development;Building+Real+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Hi+I'm+Sirish+Jha;BCS-IT+Student;Learning+AI+%26+Development;Building+Projects+Everyday+🚀" />
 </p>
 
 ---
@@ -14,19 +14,20 @@
 
 <p align="center">
   🎓 BCS-IT Student | 📍 Kathmandu, Nepal <br/>
-  💻 Learning AI, Web & Software Development
+  💻 Python & Web Development Learner | 🤖 Future AI Developer
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently studying **BCS-IT**
-- 🌱 Learning **Python, JavaScript & Web Development**
-- 🤖 Interested in **Artificial Intelligence**
-- 🛠️ Building beginner to intermediate level projects
-- 🎯 Goal: Become a skilled developer & AI specialist
-- 💡 Exploring online income & tech opportunities
+- 🎓 Currently studying **BCS-IT in Kathmandu**
+- 🌱 Learning **Python, JavaScript, HTML & CSS**
+- 🤖 Strong interest in **Artificial Intelligence**
+- 🛠️ Working on **coding practice & small development projects**
+- 📈 Focused on improving problem-solving and logic building
+- 🎯 Goal: Become a professional **AI & Software Developer**
+- 💡 Exploring **online income and tech opportunities**
 
 ---
 
@@ -65,23 +66,28 @@
 
 ## 🚀 My Projects
 
-Here are some of the projects I’ve worked on:
+Here are some of the projects I’ve built and practiced:
 
-- 💻 **Programming Practice Projects**
-  - Python-based logic building and problem-solving
-- 🌐 **Basic Web Projects**
-  - HTML, CSS based designs and layouts
-- 🧪 **Learning Projects**
-  - Small experiments to improve coding skills
+- 💻 **Python Practice Programs**
+  - Loops, conditions, and basic logic building
+  - Beginner-friendly problem solving
 
-👉 I’m continuously improving and adding more advanced projects.
+- 🌐 **Web Development Projects**
+  - Simple HTML & CSS layouts
+  - Responsive basic webpage designs
+
+- 🧪 **Learning & Experimental Projects**
+  - Small coding experiments to improve understanding
+  - Hands-on practice with new concepts
+
+📌 I am continuously learning and upgrading my skills by building more advanced projects.
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:sirishjha1887@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/sirish1887">
@@ -102,7 +108,7 @@ Here are some of the projects I’ve worked on:
 ## 💡 Quote
 
 <p align="center">
-  <i>"Start small, build consistently, achieve big 🚀"</i>
+  <i>"Start small, stay consistent, and build something great 🚀"</i>
 </p>
 
 ---
