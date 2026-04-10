@@ -42,13 +42,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirish1887&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sirish1887&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirish1887&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sirish1887&theme=tokyonight&hide_border=true" />
@@ -59,7 +62,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sirish1887&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sirish1887&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4" />
 </p>
 
 ---
@@ -68,19 +71,19 @@
 
 Here are some of the projects I’ve built and practiced:
 
-- 💻 **Python Practice Programs**
-  - Loops, conditions, and basic logic building
-  - Beginner-friendly problem solving
+- 💻 **Python Practice Projects**
+  - Loops, conditions, and logic building
+  - Beginner-level problem solving tasks
 
 - 🌐 **Web Development Projects**
-  - Simple HTML & CSS layouts
-  - Responsive basic webpage designs
+  - HTML & CSS based static websites
+  - Simple responsive layouts and UI designs
 
 - 🧪 **Learning & Experimental Projects**
-  - Small coding experiments to improve understanding
-  - Hands-on practice with new concepts
+  - Small coding experiments while learning new concepts
+  - Practice-based mini projects to improve skills
 
-📌 I am continuously learning and upgrading my skills by building more advanced projects.
+📌 I am continuously learning and improving by building more advanced projects.
 
 ---
 
