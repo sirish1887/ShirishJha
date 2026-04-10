@@ -62,7 +62,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sirish1887&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4" />
+  <img src="Untitled-1.png"/>
 </p>
 
 ---
